@@ -23,6 +23,13 @@ _Get started using GitHub in less than an hour._
 ## Welcome
 ## The dataset
 
+In order to create the ground truth for the classification dataset,
+each sample (video) was assigned a single ground-truth label based on
+the locomotion scores provided by multiple observers. To achieve this,
+the scores from the four observers were combined into one value by
+calculating the rounded-down average of the two observers with the
+highest intra-observer reliability.
+
 ## Open datasets catalog 
 
 These datasets are great for machine learning learners, researchers and engineers to train models for image classification, object detection, visual relationship detection, instance segmentation, and more. </br>
