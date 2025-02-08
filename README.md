@@ -8,7 +8,7 @@
 -->
 ### DADECHI
 ## Introduction to Lameness Detection Dataset 
-
+Lameness is a painful gait disorder in dairy cows and is often characterized by abnormal locomotion of the cow.
 
 _Get started using GitHub in less than an hour._
 
