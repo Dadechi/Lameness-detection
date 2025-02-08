@@ -1,5 +1,5 @@
 <header>
-
+## Welcome
 <!--
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
@@ -20,7 +20,7 @@ _Get started using GitHub in less than an hour._
   and tell the learner why they should take the course.
 -->
 
-## Welcome
+
 ## The dataset
 
 In order to create the ground truth for the classification dataset,
